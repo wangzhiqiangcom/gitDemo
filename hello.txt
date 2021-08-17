@@ -6,7 +6,7 @@ hello wangzhiqiang! hello git!
 hello wangzhiqiang! hello git!
 hello wangzhiqiang! hello git!
 hello wangzhiqiang! hello git!
-hello wangzhiqiang! hello git!
+hello wangzhiqiang! hello git! master test
 hello wangzhiqiang! hello git!
 hello wangzhiqiang! hello git!qw
 wq
