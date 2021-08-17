@@ -6,8 +6,9 @@ hello wangzhiqiang! hello git!
 hello wangzhiqiang! hello git!
 hello wangzhiqiang! hello git!
 hello wangzhiqiang! hello git!
+<<<<<<< HEAD
 hello wangzhiqiang! hello git! master test
-hello wangzhiqiang! hello git!
+hello wangzhiqiang! hello git! hot-fix
 hello wangzhiqiang! hello git!qw
 wq
 ssf
